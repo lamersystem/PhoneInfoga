@@ -48,7 +48,7 @@ The tool only accepts E164 and International formats as input.
 ## Installation
 
 ```bash
-git clone https://github.com/sundowndev/PhoneInfoga
+git clone https://github.com/lamersystem/PhoneInfoga
 cd PhoneInfoga/
 python3 -m pip install -r requirements.txt
 ```
